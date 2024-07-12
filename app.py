@@ -11,7 +11,7 @@ emotion_dict = {0:'angry', 1 :'happy', 2: 'neutral', 3:'sad', 4: 'surprise'}
 # load json and create model
 try:
     json_file = open('emotion_model1.json', 'r')
-        loaded_model_json = json_file.read()
+    loaded_model_json = json_file.read()
     classifier = model_from_json(loaded_model_json)
 
 except Exception as e:

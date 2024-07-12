@@ -9,11 +9,12 @@ from streamlit_webrtc import webrtc_streamer, VideoTransformerBase, RTCConfigura
 # load model
 emotion_dict = {0:'angry', 1 :'happy', 2: 'neutral', 3:'sad', 4: 'surprise'}
 # load json and create model
-json_file = open('emotion_model1.json', 'r')
-loaded_model_json = json_file.read()
-json_file.close()
-classifier = model_from_json(loaded_model_json)
-
+try:
+    json_file = with open('emotion_model1.json', 'r')
+        loaded_model_json = json_file.read()
+    classifier = model_from_json(loaded_model_json)
+except Exception as e:
+    st.error(f"Error loading model: {e}")
 # load weights into new model
 classifier.load_weights("emotion_model1.h5")
 

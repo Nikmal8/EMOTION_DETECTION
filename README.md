@@ -1,14 +1,12 @@
 # Emotion Detection
 Welcome to my Project! This project showcases my skills, projects, and experiences as a Data Scientist.
 
-### Weblink: [Live Website](https://rishavchanda.netlify.app)
+### Demo: [See Output](https://github.com/user-attachments/assets/5ad9dc85-21a6-4c30-b34e-bf265e55b49b)
 ## Some Images:
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/6ad7b63b-4c51-4c98-bd21-847e5d48d559"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/182c563b-9723-44db-b128-bf025d0d894a"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/ba31f061-3cee-49a3-8e1d-23034ab20771"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/6ce763a9-2a12-4238-a73f-df1bacf0d205"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/410a09bd-82bd-413a-aa66-e44d077e95c9"/>
 
 
 ## Table of Contents

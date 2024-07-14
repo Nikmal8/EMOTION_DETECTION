@@ -1,6 +1,5 @@
-opencv-python
-numpy
-streamlit
-streamlit_webrtc
-tensorflow
-keras
+opencv-contrib-python==4.9.0.80
+opencv-python==4.9.0.80
+opencv-python-headless
+streamlit==1.33.0
+streamlit_webrtc==0.47.7

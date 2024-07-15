@@ -40,7 +40,7 @@ https://github.com/Nikmal8/EMOTION_DETECTION.git
 ```
 2. Navigate to the project directory: 
 ```bash
-`cd EMOTION_DETECTION
+cd EMOTION_DETECTION
 ```
 3. Install the dependencies: 
 ```bash
@@ -58,7 +58,7 @@ http://localhost:3000
 ## Usage
 - Run the main script:
 ```bash
-python main.py
+python app.py
 ```
 
 - Provide an image or video stream for emotion prediction.

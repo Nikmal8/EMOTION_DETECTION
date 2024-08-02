@@ -5,8 +5,6 @@ Welcome to my Project! This project showcases my skills, projects, and experienc
 ## Some Images:
 <img width="450px;" src="https://github.com/user-attachments/assets/182c563b-9723-44db-b128-bf025d0d894a"/>
 <img width="450px;" src="https://github.com/user-attachments/assets/ba31f061-3cee-49a3-8e1d-23034ab20771"/>
-<img width="450px;" src="https://github.com/user-attachments/assets/6ce763a9-2a12-4238-a73f-df1bacf0d205"/>
-<img width="450px;" src="https://github.com/user-attachments/assets/410a09bd-82bd-413a-aa66-e44d077e95c9"/>
 
 
 ## Table of Contents
